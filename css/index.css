@@ -1,0 +1,83 @@
+body{
+    background: linear-gradient(to right, #DB93B0 , #FFA8AB);
+    font-family: courier;
+}
+hr {
+    background-color: #413C58;
+    color: #413C58;
+    margin: 0 auto;
+    padding: 0;
+}
+nav{
+    display: block;
+}
+.navbar-cus{
+    background-color: #413C58;
+    color:black;
+    border: 0;
+}
+
+.big-container {
+    background: linear-gradient(to right, #DB93B0 , #FFA8AB);
+    margin: 0;
+    padding-top: 150px;
+    height: 60vh;
+}
+.footer-cp {
+    background: linear-gradient(to right, #DB93B0 , #FFA8AB);
+    height: 40vh;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+ .fa-twitter {
+     color: #0084b4;
+ }
+
+ .fa-tumblr {
+     color: #34526f;
+ }
+
+.know-me{
+    background-color: #413C58 !important;
+    color: #DB93B0;
+}
+.social-button{
+    background-color: #D6F9DD;
+}
+.btn{
+    box-shadow: 1px 4px 4px #888888;
+}
+.container-bio{
+    padding: 100px;
+    margin: 100px;
+    background-color: #fff;
+    box-shadow: 1px 4px 4px #888888;
+
+}
+
+.title{
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+
+.gallery-title{
+    padding: 100px;
+    margin: 100px;
+}
+
+.container{
+    padding: 100px;
+}
+
+.calendar-table{
+    background: #fff;
+    margin-top: 20px;
+}
+
+.calendar-container{
+    margin: 20px !important;
+    padding: 100px;
+}
